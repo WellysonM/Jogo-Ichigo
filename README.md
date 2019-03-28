@@ -6,6 +6,8 @@
 
 ### Jogo feito no greenfoot
 
+- execute o arquivo .jar com o JAVA
+
 ### Controles do jogo
 
 - espaço => pula 
