@@ -1,5 +1,7 @@
 # Jogo Ichigo
 
+![imagem of result](https://github.com/WellysonM/Jogo-Ichigo/blob/master/jogo.PNG?raw=true)
+
 ## Tecnologias usadas
 
 - JAVA
