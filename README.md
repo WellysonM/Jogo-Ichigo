@@ -1,5 +1,7 @@
 # Jogo Ichigo
 
+ - Link do jogo: https://www.greenfoot.org/scenarios/28848
+
 ![imagem of result](https://github.com/WellysonM/Jogo-Ichigo/blob/master/jogo.PNG?raw=true)
 
 ## Tecnologias usadas
